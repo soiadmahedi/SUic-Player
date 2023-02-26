@@ -3,7 +3,25 @@ SUic Player is a android video player.
 SUic player made by Soiad Mahedi and 
 first published in Galaxy Store for 
 SAMSUNG Device. 
- 
+
+#Device Permissions 
+This application all file access on your device for
+Video file read & write. This application internet 
+Connection access for check the latest version of
+SUic Player. 
+
+-File and media 
+read the content of your shared storage
+Modify or delete SD Card content
+
+- Others app capabilities 
+have full network access (When you online)
+view network connections
+run in the background
+use data in the background
+expand/collapse status bar
+
+
 # Permission 
 This application only for video watching and
 personal use for any video and media watching 
@@ -17,7 +35,11 @@ This Application only for Soiad Mahedi's official
 Website (soiadmahedi.blogspot.com) and Supported
 AppStore.
 
-This application 'SUic Player' made by Soiad Mahedi from Bangladesh. And this application will be Created for Video Player. This video player is very batterfull application for Android. This is my life's first successful Android application.
+This application 'SUic Player' made by Soiad Mahedi 
+from Bangladesh. And this application will be Created 
+for Video Player. This video player is very batterfull 
+application for Android. This is my life's first 
+successful Android application.
 
 *Smooth Performance Video
 
@@ -33,6 +55,6 @@ Future :
 
 # App Store
 1. SAMSUNG Galaxy Store 
-2. Google Play Store
-3. Xiaomi GetApp
+2. Google Play Store - Coming soon
+3. Xiaomi GetApp - Coming soon
 4. Github
