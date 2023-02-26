@@ -17,6 +17,20 @@ This Application only for Soiad Mahedi's official
 Website (soiadmahedi.blogspot.com) and Supported
 AppStore.
 
+This application 'SUic Player' made by Soiad Mahedi from Bangladesh. And this application will be Created for Video Player. This video player is very batterfull application for Android. This is my life's first successful Android application.
+
+*Smooth Performance Video
+
+Future :
+- Video resolution up to 4K
+- Video zoom automatic
+- PIP mode available
+- Video seek bar style available
+- Autocratic Full screen / Notch screen
+- Settings 
+- Video file count in folder
+- Video file size & date
+
 # App Store
 1. SAMSUNG Galaxy Store 
 2. Google Play Store
