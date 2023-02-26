@@ -61,4 +61,3 @@ Future :
 4. Github
 
 - Current Version : 1.3 SM (4)
-SAMSUNG Variant : On the Release Section.
