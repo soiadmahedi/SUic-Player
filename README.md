@@ -4,7 +4,7 @@ SUic player made by Soiad Mahedi and
 first published in Galaxy Store for 
 SAMSUNG Device. 
 
-#Device Permissions 
+# Device Permissions 
 This application all file access on your device for
 Video file read & write. This application internet 
 Connection access for check the latest version of
