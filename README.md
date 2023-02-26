@@ -31,6 +31,7 @@ This application owner (Soiad Mahedi) don’t allow
 to modify this application and upload third perty
 website and Unverified AppStore.
 
+# Application Description 
 This Application only for Soiad Mahedi's official 
 Website (soiadmahedi.blogspot.com) and Supported
 AppStore.
@@ -58,3 +59,6 @@ Future :
 2. Google Play Store - Coming soon
 3. Xiaomi GetApp - Coming soon
 4. Github
+
+- Current Version : 1.3 SM (4)
+SAMSUNG Variant : On the Release Section.
