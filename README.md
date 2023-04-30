@@ -57,7 +57,7 @@ Future :
 # App Store
 1. SAMSUNG Galaxy Store 
 2. Google Play Store - Coming soon
-3. Xiaomi GetApp - Coming soon
+3. Xiaomi GetApp
 4. Github
 
 - Current Version : 1.3 SM (4)
