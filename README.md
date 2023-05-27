@@ -1,63 +1,53 @@
-# SUic-Player
-SUic Player is a android video player.
-SUic player made by Soiad Mahedi and 
-first published in Galaxy Store for 
-SAMSUNG Device. 
+Smooth video performance video player and audios all folder discover available in this SUic Player Application and this application made by Soiad Mahedi from Bangladesh 🇧🇩. This video player is very batterfull application for Android. This is my life's first successful Android application.
 
-# Device Permissions 
-This application all file access on your device for
-Video file read & write. This application internet 
-Connection access for check the latest version of
-SUic Player. 
+# Application Feature
 
--File and media 
-read the content of your shared storage
-Modify or delete SD Card content
+ALL VIDEO/AUDIO LIST. easy to find your favourite video file and audio file and play from SUic player. 
 
-- Others app capabilities 
-have full network access (When you online)
-view network connections
-run in the background
-use data in the background
-expand/collapse status bar
+ONLINE VIDEO. stream your online video with link and download by link on your device. But Social media video is not support.
 
+LAST PLAYED VIDEO. easily find your last played video on SUic Player application. 
 
-# Permission 
-This application only for video watching and
-personal use for any video and media watching 
-for android device. 
+# Permission Details
 
-This application owner (Soiad Mahedi) don’t allow 
-to modify this application and upload third perty
-website and Unverified AppStore.
+* "READ_EXTERNAL_STORAGE" this permission used for red your video and audio file from your device's primary & secondary storage. 
 
-# Application Description 
-This Application only for Soiad Mahedi's official 
-Website (soiadmahedi.blogspot.com) and Supported
-AppStore.
+* "WRITE_EXTERNAL_STORAGE" is required to rename or delete files and to store the downloaded video from online video.
 
-This application 'SUic Player' made by Soiad Mahedi 
-from Bangladesh. And this application will be Created 
-for Video Player. This video player is very batterfull 
-application for Android. This is my life's first 
-successful Android application.
+* "INTERNET" this permission required to play internet streams or online video play and update checking etc.
 
-*Smooth Performance Video
+# Player Features
 
-Future :
-- Video resolution up to 4K
-- Video zoom automatic
-- PIP mode available
-- Video seek bar style available
-- Autocratic Full screen / Notch screen
-- Settings 
-- Video file count in folder
-- Video file size & date
+1. SEEK POSITION. adjust video seek position by swipe left and right for video current time position to positive and negative. 
 
-# App Store
-1. SAMSUNG Galaxy Store 
-2. Google Play Store - Coming soon
-3. Xiaomi GetApp
-4. Github
+2. SOUND VOLUME GESTURE. adjust media sound volume by swipe down and swipe up in video surface right side.
 
-- Current Version : 1.3 SM (4)
+3. BRIGHTNESS ADJUST. adjust screen brightness by swipe up and swipe down in video surface left side.
+
+4. SCALE ZOOM. pinch zoom available on this video player and pinch zoom for two finger gesture detector. 
+
+5. TAP EVENT. video surface double tap to play/pouse video and single tap to show/hide media controller surface. 
+
+6. PIP MODE. floating small video player by picture in picture mode available in this player.
+
+# About
+
+Soiad Mahedi's information
+
+Full Name : Md. Mehedi Hasan Rabbani
+
+Facebook : https://facebook.com/soiadmahediofficial/
+
+Twitter : https://twitter.com/soiadmahedi/
+
+Instagram : https://instagram.com/soiadmahedi/
+
+Soiad Mahedi official blogspot site : 
+
+https://soiadmahedi.blogspot.com/
+
+*** If you are facing "package file is invalid" error, please install it again from product home page (https://sites.google.com/view/suicplayer/download)
+
+If you have any question, Please contact us from my Gmail address (mahedisbusiness@gmail.com)
+
+- Current Version : 1.4 SM (5)
