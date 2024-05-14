@@ -50,4 +50,4 @@ https://soiadmahedi.blogspot.com/
 
 If you have any question, Please contact us from my Gmail address (mahedisbusiness@gmail.com)
 
-- Latest Version : 1.5 SM (6)
+- Latest Version : 1.8 SM (9)
