@@ -49,3 +49,8 @@ SUic Player Developed by Md. Mehedi Hassan Rabbani and his Brand Name is Soiad M
 *** If you are facing "package file is invalid" error, please install it again from product home page (https://sites.google.com/view/suicplayer/download) 
 
 If you have any question, Please contact us from my Gmail address (mahedisbusiness@gmail.com)
+
+---
+<p align="left">
+  <img src="assets/soiadmahedi-brand.png" style="width: 40%;" />
+</p>
