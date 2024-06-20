@@ -32,6 +32,8 @@ SUic Player Android Audio and Video Player based on AndroidX Media3 ExoPlayer Go
 - Music Playback Notification and Music Action and Background playback supported (listen to music with the app minimized).
 - Action Button (Play/Pause, Next and Previous Media from Folder)
 
+# Permissions & Access 
+
 ### Required Permission 
 Storage / All Files Access : Necessary to scan and access all media files and subtitles on primary and external storage, including those not supported by Android Media Scanner. 
 ### Optional Permission 
@@ -51,6 +53,7 @@ SUic Player Developed by Md. Mehedi Hassan Rabbani and his Brand Name is Soiad M
 If you have any question, Please contact us from my Gmail address (mahedisbusiness@gmail.com)
 
 ---
+
 <p align="left">
   <img src="assets/soiadmahedi-brand-left.png" style="width: 40%;" />
 </p>
