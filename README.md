@@ -18,7 +18,7 @@ SUic Player Android Audio and Video Player based on AndroidX Media3 ExoPlayer Go
 
 # Features 
 
-- Multiple Audio/Subtitle Video Tracks 
+- Multiple Audio/Subtitle Tracks 
 - Multiple Video Quality Tracks Support 
 - Media Playback Speed Control
 - Pinch Zoom and Resize (Fit/Crop/Stretch)
