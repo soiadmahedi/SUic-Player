@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/suicplayer-icon.png" style="width: 30%;" />
+  <img src="assets/suicplayer-icon-square.png" style="width: 24%;" />
 </p>
 
 # SUic Player
