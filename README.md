@@ -10,20 +10,11 @@ SUic Player Android Audio and Video Player based on AndroidX Media3 ExoPlayer Go
 
 # Supported formats
 
-- Audio:
-Vorbis, Opus, FLAC, ALAC, PCM/WAVE (u-law, A-law), MP1, MP2, MP3, AMR (NB, WB), AAC (LC, ELD, HE; xHE on Android 9+), AC-3, E-AC-3, DTS, DTS-HD, TrueHD etc.
-
-- Video:
-H.263, H.264 AVC (Baseline Profile; Main Profile on Android 6+), H.265 HEVC, MPEG-4 SP, VP8, VP9, AV1 etc.
-
-- Containers:
-MP4, MOV, WebM, MKV, Ogg, MPEG-TS, MPEG-PS, FLV etc.
-
-- Streaming:
-DASH, HLS, SmoothStreaming, RTSP, HTTP & HTTPS Stream etc.
-
-- Subtitles:
-SRT, SSA, TTML, VTT etc.
+- Audio : Vorbis, Opus, FLAC, ALAC, PCM/WAVE (u-law, A-law), MP1, MP2, MP3, AMR (NB, WB), AAC (LC, ELD, HE; xHE on Android 9+), AC-3, E-AC-3, DTS, DTS-HD, TrueHD etc.
+- Video : H.263, H.264 AVC (Baseline Profile; Main Profile on Android 6+), H.265 HEVC, MPEG-4 SP, VP8, VP9, AV1 etc.
+- Containers : MP4, MOV, WebM, MKV, Ogg, MPEG-TS, MPEG-PS, FLV etc.
+- Streaming : DASH, HLS, SmoothStreaming, RTSP, HTTP & HTTPS Stream etc.
+- Subtitles: SRT, SSA, TTML, VTT etc.
 
 # Features 
 
@@ -41,20 +32,19 @@ SRT, SSA, TTML, VTT etc.
 - Music Playback Notification and Music Action and Background playback supported (listen to music with the app minimized).
 - Action Button (Play/Pause, Next and Previous Media from Folder)
 
-Required Permission 
+### Required Permission 
 Storage / All Files Access : Necessary to scan and access all media files and subtitles on primary and external storage, including those not supported by Android Media Scanner. 
-Optional Permission
+### Optional Permission 
 Notification : When BG PLAY feature enabled to Playback state and action watching in notification from SUic Player.
 
 # Developer Details 
 
 SUic Player Developed by Md. Mehedi Hassan Rabbani and his Brand Name is Soiad Mahedi. Bangladeshi Software Developer and Digital Content Creator.
 
-Facebook : https://facebook.com/soiadmahediofficial
-Twitter : https://twitter.com/soiadmahedi
-Instagram : https://instagram.com/soiadmahedi
-Soiad Mahedi official blogspot site : 
-https://soiadmahedi.blogspot.com
+- Facebook : https://facebook.com/soiadmahediofficial
+- Twitter : https://twitter.com/soiadmahedi
+- Instagram : https://instagram.com/soiadmahedi
+- Soiad Mahedi official blogspot site : https://soiadmahedi.blogspot.com
 
 *** If you are facing "package file is invalid" error, please install it again from product home page (https://sites.google.com/view/suicplayer/download) 
 
