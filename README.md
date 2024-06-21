@@ -8,6 +8,10 @@ Simple Useful Interesting Cool (SUic) Video Player and Support Audio/Subtitle/Vi
 
 SUic Player Android Audio and Video Player based on AndroidX [Media3](https://github.com/androidx/media) ExoPlayer Google Official Media Library. But it use Device Video Decoder and ExoPlayer's FFMEG Extension and Device Decoder from Old Video Player.
 
+# Download & Availability 
+
+
+
 # Supported formats
 
 - Audio : Vorbis, Opus, FLAC, ALAC, PCM/WAVE (u-law, A-law), MP1, MP2, MP3, AMR (NB, WB), AAC (LC, ELD, HE; xHE on Android 9+), AC-3, E-AC-3, DTS, DTS-HD, TrueHD etc.
