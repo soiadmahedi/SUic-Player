@@ -6,7 +6,7 @@
 
 Simple Useful Interesting Cool (SUic) Video Player and Support Audio/Subtitle/Video Multiple Tracks and Online Stream Supported Video Player. Smooth video performance video player and audios all folder discover available in this SUic Player Application and this application made by Soiad Mahedi from Bangladesh
 
-SUic Player Android Audio and Video Player based on AndroidX Media3 ExoPlayer Google Official Media Library. But it use Device Video Decoder and ExoPlayer's FFMEG Extension and Device Decoder from Old Video Player.
+SUic Player Android Audio and Video Player based on AndroidX [Media3](https://github.com/androidx/media) ExoPlayer Google Official Media Library. But it use Device Video Decoder and ExoPlayer's FFMEG Extension and Device Decoder from Old Video Player.
 
 # Supported formats
 
