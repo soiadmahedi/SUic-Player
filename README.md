@@ -10,10 +10,12 @@ SUic Player Android Audio and Video Player based on AndroidX [Media3](https://gi
 
 # Download & Availability 
 
+Current SUic Player Version : 1.8 SM
+
 [<img src="assets/get-from-galaxystore.png" alt="Available on Galaxy Store" height="75">](https://galaxystore.samsung.com/detail/com.soiadmahedi.suicTh)
 [<img src="assets/android-apk.png" alt="Direct APK Download" height="75">](https://github.com/soiadmahedi/SUic-Player/releases/download/1.8/suic-player-1.8.apk)
 [<img src="assets/get-uptodown.png" alt="Get SUic Player From UpToDown" height="75">](https://suic-player.en.uptodown.com/android)
-[<img src="assets/get-github.png" alt="SUic Player GitHub Release" height="75">](https://github.com/soiadmahedi/SUic-Player/releases)
+[<img src="assets/get-github.png" alt="SUic Player GitHub Release" height="75">](https://github.com/soiadmahedi/SUic-Player/releases/latest)
 [<img src="assets/get-miappstore.png" alt="SUic Player Available Xiaomi App Store" height="75">](https://global.app.mi.com/details?lo=ID&la=en_US&id=com.soiadmahedi.suicTh)
 [<img src="assets/get-apkcombo.png" alt="Get From APK Combo" height="75">](https://apkcombo.com/suic-player/com.soiadmahedi.suicTh)
 
