@@ -27,7 +27,7 @@ SUic Player Android Audio and Video Player based on AndroidX [Media3](https://gi
 
 # Features 
 
-<img src="assets/suicplayer-videoscreen.png" width="820">
+<img src="screenshots/suicplayer-videoscreen.png" width="800">
 
 - Multiple Audio/Subtitle Tracks 
 - Multiple Video Quality Tracks Support 
