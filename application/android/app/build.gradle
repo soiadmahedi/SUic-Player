@@ -43,8 +43,6 @@ dependencies {
 	implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
 	implementation 'androidx.multidex:multidex:2.0.1'
 
-	implementation 'com.github.dburckh:Media3Avi:2.3.0'
-
 	implementation 'androidx.media:media:1.7.0'
 	implementation 'androidx.media3:media3-exoplayer:1.2.1'
 	implementation 'androidx.media3:media3-exoplayer-dash:1.2.1'
