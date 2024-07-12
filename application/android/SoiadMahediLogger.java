@@ -63,7 +63,7 @@ public class SoiadMahediLogger {
 		Context context = SoiadMahediApplication.getContext();
 		
 		Intent intent = new Intent();
-		intent.setAction("com.sketchware.remod.ACTION_NEW_DEBUG_LOG");
+		intent.setAction("com.soiadmahedi.debugview.ACTION_NEW_DEBUG_LOG");
 		intent.putExtra("log", log);
 		intent.putExtra("packageName", context.getPackageName());
 		context.sendBroadcast(intent);
