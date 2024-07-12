@@ -68,5 +68,5 @@ If you have any question, Please contact us from my Gmail address (mahedisbusine
 ---
 
 <p align="left">
-  <img src="assets/soiadmahedi-brand-left.png" style="width: 40%;" />
+  <img src="assets/soiadmahedi_brand_colorful.png" style="width: 40%;" />
 </p>
