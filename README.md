@@ -38,6 +38,9 @@ SUic Player Latest Version : 1.9 SM (10)
 - Horizontal Swipe Gesture Control to quickly Media Seek Position.
 - Left Vertical Swipe Gesture Control to Volume
 - Right Vertical Swipe Gesture Control to Brightness
+- Left Side Long Press to Slow Motion 
+- Rights Side Long Press to 2X Speed
+- Left Side and Rights Side Double Tab to Fast Forward and Rewind
 - PiP (Picture in Picture) Mini Player Support
 - Touch Lock and Unlock 
 - Double Tap to Play/Pause 
