@@ -1,1 +1,2 @@
 include ':app'
+gradle.ext.androidxMediaEnableMidiModule = true
