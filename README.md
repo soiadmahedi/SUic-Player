@@ -29,7 +29,7 @@ Current SUic Player Version : 1.8 SM
 
 # Features 
 
-<img src="screenshots/suicplayer-videoscreen.png" width="800">
+<img src="screenshot/suicplayer-videoscreen.png" width="800">
 
 - Multiple Audio/Subtitle Tracks 
 - Multiple Video Quality Tracks Support 
