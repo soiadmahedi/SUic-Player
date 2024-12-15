@@ -13,7 +13,7 @@ SUic Player Android Audio and Video Player based on AndroidX [Media3](https://gi
 SUic Player Latest Version : 1.9 SM (10)
 
 
-[<img src="assets/android-apk.png" alt="Direct APK Download" height="75">](https://github.com/soiadmahedi/SUic-Player/releases/download/1.9/suicplayer-release-1.9-universal.apk)
+[<img src="assets/android-apk.png" alt="Direct APK Download" height="75">](https://github.com/soiadmahedi/SUic-Player/releases/download/1.9/suicplayer-v1.9-release.apk)
 
 [<img src="assets/get-from-galaxystore.png" alt="Available on Galaxy Store" height="75">](https://galaxystore.samsung.com/detail/com.soiadmahedi.suicTh)
 [<img src="assets/get-uptodown.png" alt="Get SUic Player From UpToDown" height="75">](https://suic-player.en.uptodown.com/android)
