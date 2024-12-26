@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/suicplayer-icon-square.png" style="width: 24%;" />
+  <img src="assets/suicplayer-icon-square.png" style="width: 20%;" />
 </p>
 
 # SUic Player
@@ -21,6 +21,7 @@ SUic Player Latest Version : 1.9 SM (10)
 
 [<img src="assets/get-miappstore.png" alt="SUic Player Available Xiaomi App Store" height="75">](https://global.app.mi.com/details?lo=ID&la=en_US&id=com.soiadmahedi.suicTh)
 [<img src="assets/get-apkcombo.png" alt="Get From APK Combo" height="75">](https://apkcombo.com/suic-player/com.soiadmahedi.suicTh)
+[<img src="assets/amazom_appstore.png" alt="Get on Amazon Appstore" height="75">](https://www.amazon.com/gp/product/B0BPQ8XNR4)
 
 # Supported formats
 
@@ -74,5 +75,5 @@ If you have any question, Please contact us from my Gmail address (mahedisbusine
 ---
 
 <p align="left">
-  <img src="assets/soiadmahedi_brand_colorful.png" style="width: 40%;" />
+  <img src="assets/soiadmahedi_brand_colorful.png" style="width: 30%;" />
 </p>
