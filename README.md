@@ -20,7 +20,7 @@ SUic Player Latest Version : 1.9 SM (10)
 [<img src="assets/get-github.png" alt="SUic Player GitHub Release" height="75">](https://github.com/soiadmahedi/SUic-Player/releases/latest)
 
 [<img src="assets/get-miappstore.png" alt="SUic Player Available Xiaomi App Store" height="75">](https://global.app.mi.com/details?lo=ID&la=en_US&id=com.soiadmahedi.suicTh)
-[<img src="assets/get-apkcombo.png" alt="Get From APK Combo" height="75">](https://apkcombo.com/suic-player/com.soiadmahedi.suicTh)
+[<img src="assets/download-on-apkpure.png" alt="Download On APKPure" height="75">](https://apkpure.com/p/com.soiadmahedi.suicTh)
 [<img src="assets/amazom_appstore.png" alt="Get on Amazon Appstore" height="75">](https://www.amazon.com/gp/product/B0BPQ8XNR4)
 
 # Supported formats
