@@ -99,6 +99,7 @@
 **Soiad Mahedi**  
 _Bangladeshi Software Developer and Digital Content Creator_
 
+- 🌐 [Website](https://soiadmahedi.top)
 - 🌐 [Blogspot Website](https://soiadmahedi.blogspot.com)
 - 📧 mahedisbusiness@gmail.com
 - 📘 [Facebook](https://facebook.com/soiadmahediofficial)  
