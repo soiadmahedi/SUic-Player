@@ -118,7 +118,7 @@ SUic Player is **not an open-source project**, and the full source code is priva
 
 However, we welcome contributions to help improve the app for everyone!
 
-* **Translations:** You can help translate the app into your language. Please check the **[strings.xml](https://github.com/soiadmahedi/SUic-Player/blob/main/app/src/main/res/values/strings.xml)** file (example link, update it to your file path) and submit an issue or pull request with your translations.
+* **Translations:** You can help translate the app into your language. Please check the **[strings.xml - language-strings](https://github.com/soiadmahedi/SUic-Player/tree/main/language-strings)** file (example link, update it to your file path) and submit an issue or pull request with your translations.
 * **Bug Reports & Improvements:** If you find a bug or have an idea, please [open an issue](https://github.com/soiadmahedi/SUic-Player/issues) on this repository. If you have a specific code improvement for a utility (like the `utility.java` files), feel free to share it in an issue.
 
 ---
