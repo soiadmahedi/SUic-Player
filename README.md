@@ -17,7 +17,7 @@
 
 ## 🎬 About the App
 
-**SUic Player** is a versatile and powerful media player for Android (6.0+) and Android TV. Built on the modern **Media3 (formerly ExoPlayer)** library, it's designed for high-performance, high-fidelity playback of your entire media library.
+**SUic Player** is a versatile and powerful media player for Android Phone and Android TV. Built on the modern **Media3 (formerly ExoPlayer)** library, it's designed for high-performance, high-fidelity playback of your entire media library.
 
 It leverages the **Media3 FFmpeg extension** to support a vast range of audio formats, including special codecs like **AC3, E-AC3, DTS, DTS-HD, and TrueHD**. SUic Player was also created to solve a common problem: it **properly syncs audio with video** when using Bluetooth earphones or speakers.
 
